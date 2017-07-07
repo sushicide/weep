@@ -1,0 +1,14 @@
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\bin\Debug\Weep.exe.config
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\bin\Debug\Weep.exe
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\bin\Debug\Weep.pdb
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\obj\Debug\Weep.csprojResolveAssemblyReference.cache
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\obj\Debug\Weep.Form1.resources
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\obj\Debug\Weep.Properties.Resources.resources
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\obj\Debug\Weep.csproj.GenerateResource.Cache
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\obj\Debug\Weep.exe
+C:\Users\Sushicide\Documents\Visual Studio 2013\Projects\Weep\Weep\obj\Debug\Weep.pdb
+C:\Users\Sushicide\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Weep\Weep\bin\Debug\Weep.exe.config
+C:\Users\Sushicide\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Weep\Weep\obj\Debug\Weep.exe
+C:\Users\Sushicide\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Weep\Weep\obj\Debug\Weep.pdb
